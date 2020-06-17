@@ -1,0 +1,31 @@
+c:\users\aluno\documents\visual studio 2015\Projects\TabuleiroQuimica\TabuleiroQuimica\bin\Debug\TabuleiroQuimica.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\TabuleiroQuimica\TabuleiroQuimica\bin\Debug\TabuleiroQuimica.exe
+c:\users\aluno\documents\visual studio 2015\Projects\TabuleiroQuimica\TabuleiroQuimica\bin\Debug\TabuleiroQuimica.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\TabuleiroQuimica\TabuleiroQuimica\obj\Debug\TabuleiroQuimica.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\TabuleiroQuimica\TabuleiroQuimica\obj\Debug\TabuleiroQuimica.Jogo.resources
+c:\users\aluno\documents\visual studio 2015\Projects\TabuleiroQuimica\TabuleiroQuimica\obj\Debug\TabuleiroQuimica.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\TabuleiroQuimica\TabuleiroQuimica\obj\Debug\TabuleiroQuimica.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\TabuleiroQuimica\TabuleiroQuimica\obj\Debug\TabuleiroQuimica.exe
+c:\users\aluno\documents\visual studio 2015\Projects\TabuleiroQuimica\TabuleiroQuimica\obj\Debug\TabuleiroQuimica.pdb
+G:\LÓGICA\TabuleiroQuimica\TabuleiroQuimica\bin\Debug\TabuleiroQuimica.exe.config
+G:\LÓGICA\TabuleiroQuimica\TabuleiroQuimica\obj\Debug\TabuleiroQuimica.exe
+G:\LÓGICA\TabuleiroQuimica\TabuleiroQuimica\obj\Debug\TabuleiroQuimica.pdb
+C:\Users\Cicero-Vitor-Samuel\Downloads\vitor\TabuleiroQuimica\TabuleiroQuimica\bin\Debug\TabuleiroQuimica.exe.config
+C:\Users\Cicero-Vitor-Samuel\Downloads\vitor\TabuleiroQuimica\TabuleiroQuimica\obj\Debug\TabuleiroQuimica.exe
+C:\Users\Cicero-Vitor-Samuel\Downloads\vitor\TabuleiroQuimica\TabuleiroQuimica\obj\Debug\TabuleiroQuimica.pdb
+C:\Users\Cicero-Vitor-Samuel\Downloads\vitor\TabuleiroQuimica\TabuleiroQuimica\bin\Debug\TabuleiroQuimica.exe
+C:\Users\Cicero-Vitor-Samuel\Downloads\vitor\TabuleiroQuimica\TabuleiroQuimica\bin\Debug\TabuleiroQuimica.pdb
+C:\Users\Cicero-Vitor-Samuel\Downloads\vitor\TabuleiroQuimica\TabuleiroQuimica\obj\Debug\TabuleiroQuimica.csprojResolveAssemblyReference.cache
+C:\Users\Cicero-Vitor-Samuel\Downloads\vitor\TabuleiroQuimica\TabuleiroQuimica\obj\Debug\TabuleiroQuimica.Jogo.resources
+C:\Users\Cicero-Vitor-Samuel\Downloads\vitor\TabuleiroQuimica\TabuleiroQuimica\obj\Debug\TabuleiroQuimica.Properties.Resources.resources
+C:\Users\Cicero-Vitor-Samuel\Downloads\vitor\TabuleiroQuimica\TabuleiroQuimica\obj\Debug\TabuleiroQuimica.csproj.GenerateResource.Cache
+F:\LÓGICA\TabuleiroQuimica\TabuleiroQuimica\bin\Debug\TabuleiroQuimica.exe.config
+F:\LÓGICA\TabuleiroQuimica\TabuleiroQuimica\obj\Debug\TabuleiroQuimica.exe
+F:\LÓGICA\TabuleiroQuimica\TabuleiroQuimica\obj\Debug\TabuleiroQuimica.pdb
+F:\LÓGICA\TabuleiroQuimica\TabuleiroQuimica\bin\Debug\TabuleiroQuimica.exe
+F:\LÓGICA\TabuleiroQuimica\TabuleiroQuimica\bin\Debug\TabuleiroQuimica.pdb
+F:\LÓGICA\TabuleiroQuimica\TabuleiroQuimica\obj\Debug\TabuleiroQuimica.csprojResolveAssemblyReference.cache
+F:\LÓGICA\TabuleiroQuimica\TabuleiroQuimica\obj\Debug\TabuleiroQuimica.Properties.Resources.resources
+F:\LÓGICA\TabuleiroQuimica\TabuleiroQuimica\obj\Debug\TabuleiroQuimica.csproj.GenerateResource.Cache
+F:\LÓGICA\TabuleiroQuimica\TabuleiroQuimica\obj\Debug\TabuleiroQuimica.perguntas.resources
+F:\LÓGICA\TabuleiroQuimica\TabuleiroQuimica\obj\Debug\TabuleiroQuimica.Jogo.resources
