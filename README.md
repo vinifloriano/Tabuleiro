@@ -26,8 +26,8 @@ Este jogo de tabuleiro foi utilizado com propósitos de aprendizagem sobre lógi
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito por Vinicius Pereira Floriano e Vitor Silva Cavalcante
